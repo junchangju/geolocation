@@ -1,0 +1,7 @@
+1.36.36.base.txt not steep enough:
+10.666.36.base.txt not steep enough:
+100.3326.106.base.txt not steep enough:
+1000.806.1366.base.txt : max is not outstanding
+1001.876.1366.base.txt not steep enough:
+1002.946.1366.base.txt : max is not outstanding
+1003.1016.1366.base.txt : max is not outstanding

@@ -1,0 +1,8 @@
+1659.3256.2206.base.txt is water
+1785.1156.2416.base.txt is land boundy
+2215.2136.2976.base.txt is water
+253.3116.316.base.txt is water
+322.666.456.base.txt water
+
+
+
